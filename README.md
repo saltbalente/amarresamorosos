@@ -76,7 +76,7 @@ python3 -m http.server 8000
 
 ## 📞 Contacto
 
-- **WhatsApp**: +1 949-891-7311
+- **WhatsApp**: +1 323-300-8146
 - **Mensaje directo**: [Contactar por WhatsApp](https://wa.me/19498917311?text=Hola,%20necesito%20ayuda%20del%20maestro)
 
 ## 📄 Licencia
